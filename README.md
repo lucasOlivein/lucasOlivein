@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! 👋 Bem-vindo(a)
 
-<!--
-**lucasOlivein/lucasOlivein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui é onde eu construo, experimento e documento minha jornada em Ciência da Computação.
+Cada repositório é um passo — às vezes pequeno, às vezes ousado — na construção do meu aprendizado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🇧🇷 Conteúdo em Português
+- **[UFC — Ciência da Computação](https://github.com/lucasOlivein/CS50-Harvard)**  
+  Trilhas de estudo, projetos e registros das disciplinas cursadas ao longo da graduação.
+- **[UFERSA — Ciência da Computação](https://github.com/lucasOlivein/CC-UFERSA)**  
+  Exercícios, práticas e anotações que acompanham meu processo de aprender fazendo.
+
+---
+
+### 🇺🇸 English Content
+- **[Harvard CS50](https://github.com/lucasOlivein/CS50-Harvard)**  
+  Notes, exercises and solutions that trace my path through the CS50 program.
