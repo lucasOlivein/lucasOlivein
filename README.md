@@ -6,7 +6,7 @@ Cada repositório é um passo — às vezes pequeno, às vezes ousado — na con
 ---
 
 ### 🇧🇷 Conteúdo em Português
-- **[UFC — Ciência da Computação](https://github.com/lucasOlivein/CS50-Harvard)**  
+- **[UFC — Ciência da Computação](https://github.com/lucasOlivein/CC-UFC)**  
   Trilhas de estudo, projetos e registros das disciplinas cursadas ao longo da graduação.
 - **[UFERSA — Ciência da Computação](https://github.com/lucasOlivein/CC-UFERSA)**  
   Exercícios, práticas e anotações que acompanham meu processo de aprender fazendo.
